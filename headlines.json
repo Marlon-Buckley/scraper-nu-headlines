@@ -1,12 +1,150 @@
 [
   {
-    "id": 6231219,
-    "slug": "bloemen-en-knuffels-bij-herdenkingsplek-voor-hebe-en-sanne",
+    "id": 6231224,
+    "slug": "bekijk-de-samenvatting-van-arsenal-psv-1-0",
     "type": "video",
-    "title": "Bloemen en knuffels bij herdenkingsplek voor Hebe en Sanne",
+    "title": "Bekijk de samenvatting van Arsenal-PSV (1-0)",
+    "subtitle": "Video",
+    "published_at": "2022-10-20T22:16:51+02:00",
+    "updated_at": "2022-10-20T22:16:52+02:00",
+    "media_id": "7j5xnp5anuyw",
+    "duration": "5:21",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6231224/bekijk-de-samenvatting-van-arsenal-psv-1-0.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231223,
+    "slug": "advies-aan-duikers-vanwege-dodelijk-ongeluk-controleer-de-kraan-van-je-fles",
+    "type": "article",
+    "title": "Advies aan duikers vanwege dodelijk ongeluk: controleer de kraan van je fles",
+    "subtitle": null,
+    "published_at": "2022-10-20T22:12:10+02:00",
+    "updated_at": "2022-10-20T22:12:11+02:00",
+    "media_id": "7vjxwzsa2g50",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6231223/advies-aan-duikers-vanwege-dodelijk-ongeluk-controleer-de-kraan-van-je-fles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231222,
+    "slug": "veelbesproken-schaker-niemann-eist-100-miljoen-van-carlsen-wegens-smaad",
+    "type": "article",
+    "title": "Veelbesproken schaker Niemann eist 100 miljoen van Carlsen wegens smaad",
+    "subtitle": null,
+    "published_at": "2022-10-20T22:02:04+02:00",
+    "updated_at": "2022-10-20T22:15:09+02:00",
+    "media_id": "dv2xh9kad7l1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6231222/veelbesproken-schaker-niemann-eist-100-miljoen-van-carlsen-wegens-smaad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231214,
+    "slug": "fia-doet-red-bull-racing-schikkingsvoorstel-na-budgetoverschrijding",
+    "type": "article",
+    "title": "FIA doet Red Bull Racing schikkingsvoorstel na budgetoverschrijding",
+    "subtitle": null,
+    "published_at": "2022-10-20T21:51:22+02:00",
+    "updated_at": "2022-10-20T22:16:30+02:00",
+    "media_id": "l3zxk98aes20",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6231214/fia-doet-red-bull-racing-schikkingsvoorstel-na-budgetoverschrijding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231221,
+    "slug": "van-nistelrooij-is-trots-maar-ben-er-ziek-van-dat-we-geen-punt-hebben-gepakt",
+    "type": "article",
+    "title": "Van Nistelrooij is trots: 'Maar ben er ziek van dat we geen punt hebben gepakt'",
+    "subtitle": null,
+    "published_at": "2022-10-20T21:44:38+02:00",
+    "updated_at": "2022-10-20T22:13:59+02:00",
+    "media_id": "pkbxa25ai92o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231221/van-nistelrooij-is-trots-maar-ben-er-ziek-van-dat-we-geen-punt-hebben-gepakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231220,
+    "slug": "taghi-doet-aangifte-van-lekken-vertrouwelijke-informatie-uit-justitiesystemen",
+    "type": "article",
+    "title": "Taghi doet aangifte van lekken vertrouwelijke informatie uit 'justitiesystemen'",
+    "subtitle": null,
+    "published_at": "2022-10-20T21:42:53+02:00",
+    "updated_at": "2022-10-20T22:00:09+02:00",
+    "media_id": "0d6x8gbaqdep",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6231220/taghi-doet-aangifte-van-lekken-vertrouwelijke-informatie-uit-justitiesystemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231219,
+    "slug": "deel-van-snelweg-in-thailand-stort-in-na-aardverschuiving",
+    "type": "video",
+    "title": "Deel van snelweg in Thailand stort in na aardverschuiving",
     "subtitle": "Video",
     "published_at": "2022-10-20T21:20:36+02:00",
-    "updated_at": "2022-10-20T21:20:37+02:00",
+    "updated_at": "2022-10-20T21:25:29+02:00",
     "media_id": "hnnxej0a8h1f",
     "duration": "0:43",
     "canonical_section": {
@@ -18,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6231219/bloemen-en-knuffels-bij-herdenkingsplek-voor-hebe-en-sanne.html",
+    "url": "/buitenland/6231219/deel-van-snelweg-in-thailand-stort-in-na-aardverschuiving.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +167,7 @@
     "title": "Scorende Roord helpt Wolfsburg aan zege in eerste Champions League-duel",
     "subtitle": null,
     "published_at": "2022-10-20T20:54:29+02:00",
-    "updated_at": "2022-10-20T21:03:57+02:00",
+    "updated_at": "2022-10-20T21:24:33+02:00",
     "media_id": "ycfxd4jamwg7",
     "duration": null,
     "canonical_section": {
@@ -52,7 +190,7 @@
     "title": "PSV komt tekort tegen Arsenal en verliest inhaalduel in Europa League",
     "subtitle": null,
     "published_at": "2022-10-20T20:52:21+02:00",
-    "updated_at": "2022-10-20T21:13:34+02:00",
+    "updated_at": "2022-10-20T22:13:33+02:00",
     "media_id": "57tx4vuastnt",
     "duration": null,
     "canonical_section": {
@@ -93,13 +231,13 @@
   },
   {
     "id": 6231207,
-    "slug": "van-de-streek-leidt-fc-utrecht-naar-winst-in-eerste-ronde-knvb-beker",
+    "slug": "sparta-en-vvv-pas-in-slotfase-langs-amateurs-in-beker-ook-fc-utrecht-verder",
     "type": "article",
-    "title": "Van de Streek leidt FC Utrecht naar winst in eerste ronde KNVB-beker",
+    "title": "Sparta en VVV pas in slotfase langs amateurs in beker, ook FC Utrecht verder",
     "subtitle": null,
     "published_at": "2022-10-20T20:41:18+02:00",
-    "updated_at": "2022-10-20T21:15:55+02:00",
-    "media_id": "6bxxdryac8he",
+    "updated_at": "2022-10-20T22:04:50+02:00",
+    "media_id": "7ojxozja7ezt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231207/van-de-streek-leidt-fc-utrecht-naar-winst-in-eerste-ronde-knvb-beker.html",
+    "url": "/voetbal/6231207/sparta-en-vvv-pas-in-slotfase-langs-amateurs-in-beker-ook-fc-utrecht-verder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +259,7 @@
     "title": "Fotowedstrijd toont grappigste foto's van dieren in het wild",
     "subtitle": "In beeld",
     "published_at": "2022-10-20T20:41:08+02:00",
-    "updated_at": "2022-10-20T20:58:59+02:00",
+    "updated_at": "2022-10-20T22:05:52+02:00",
     "media_id": "lp0x7egah7nh",
     "duration": null,
     "canonical_section": {
@@ -323,12 +461,12 @@
   },
   {
     "id": 6231186,
-    "slug": "reacties-na-1-0-nederlaag-psv-bij-arsenal",
+    "slug": "reacties-na-1-0-nederlaag-psv-bij-arsenal-gesloten",
     "type": "article",
-    "title": "Reacties na 1-0-nederlaag PSV bij Arsenal",
+    "title": "Reacties na 1-0-nederlaag PSV bij Arsenal (gesloten)",
     "subtitle": "Liveblog EL",
     "published_at": "2022-10-20T18:18:04+02:00",
-    "updated_at": "2022-10-20T20:54:50+02:00",
+    "updated_at": "2022-10-20T21:44:53+02:00",
     "media_id": "sfjxx5jaeplz",
     "duration": null,
     "canonical_section": {
@@ -340,7 +478,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231186/reacties-na-1-0-nederlaag-psv-bij-arsenal.html",
+    "url": "/voetbal/6231186/reacties-na-1-0-nederlaag-psv-bij-arsenal-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/economie/6231160/hoe-zit-het-nou-met-die-nieuwe-rente-op-je-studielening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231148,
-    "slug": "kabinet-wil-warmtenetten-in-publieke-handen-energiebedrijven-boos",
-    "type": "article",
-    "title": "Kabinet wil warmtenetten in publieke handen, energiebedrijven boos",
-    "subtitle": null,
-    "published_at": "2022-10-20T16:43:52+02:00",
-    "updated_at": "2022-10-20T17:31:57+02:00",
-    "media_id": "2kwx6j7az7fq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6231148/kabinet-wil-warmtenetten-in-publieke-handen-energiebedrijven-boos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231154,
-    "slug": "duitse-brandweer-blust-afgebrand-opvangcentrum-voor-oekrainers",
-    "type": "video",
-    "title": "Duitse brandweer blust afgebrand opvangcentrum voor Oekraïners",
-    "subtitle": "Video",
-    "published_at": "2022-10-20T16:42:36+02:00",
-    "updated_at": "2022-10-20T16:42:37+02:00",
-    "media_id": "ka8xgfga2qtc",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231154/duitse-brandweer-blust-afgebrand-opvangcentrum-voor-oekrainers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231151,
-    "slug": "olifant-verjaagt-hyenas-die-op-gewonde-leeuw-azen-in-zuid-afrika",
-    "type": "video",
-    "title": "Olifant verjaagt hyena's die op gewonde leeuw azen in Zuid-Afrika",
-    "subtitle": "Video",
-    "published_at": "2022-10-20T16:36:00+02:00",
-    "updated_at": "2022-10-20T16:36:01+02:00",
-    "media_id": "ybyxdqfah8q3",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231151/olifant-verjaagt-hyenas-die-op-gewonde-leeuw-azen-in-zuid-afrika.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231143,
-    "slug": "gezocht-jongeren-die-in-callcenters-in-het-buitenland-werken",
-    "type": "article",
-    "title": "Gezocht: jongeren die in callcenters in het buitenland werken",
-    "subtitle": null,
-    "published_at": "2022-10-20T16:27:42+02:00",
-    "updated_at": "2022-10-20T20:13:46+02:00",
-    "media_id": "m1mxkodac77d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6231143/gezocht-jongeren-die-in-callcenters-in-het-buitenland-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231140,
-    "slug": "adresgegevens-duizenden-studenten-tu-eindhoven-liggen-op-straat-na-hack",
-    "type": "article",
-    "title": "Adresgegevens duizenden studenten TU Eindhoven liggen op straat na hack",
-    "subtitle": null,
-    "published_at": "2022-10-20T16:21:19+02:00",
-    "updated_at": "2022-10-20T20:44:11+02:00",
-    "media_id": "7mfxkwuacql1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6231140/adresgegevens-duizenden-studenten-tu-eindhoven-liggen-op-straat-na-hack.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231135,
-    "slug": "hoe-de-britse-premier-liz-truss-met-een-ongeevenaarde-smak-ten-val-kwam",
-    "type": "article",
-    "title": "Hoe de Britse premier Liz Truss met een ongeëvenaarde smak ten val kwam",
-    "subtitle": null,
-    "published_at": "2022-10-20T16:19:58+02:00",
-    "updated_at": "2022-10-20T19:24:00+02:00",
-    "media_id": "qjbxijla39q9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231135/hoe-de-britse-premier-liz-truss-met-een-ongeevenaarde-smak-ten-val-kwam.html",
     "open_new_window": false,
     "partner": null
   }
