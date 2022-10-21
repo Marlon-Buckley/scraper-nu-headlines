@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231451,
+    "slug": "rederij-pleitte-paar-dagen-voor-fataal-scheepsongeluk-voor-licht-op-vaarroute",
+    "type": "article",
+    "title": "Rederij pleitte paar dagen voor fataal scheepsongeluk voor licht op vaarroute",
+    "subtitle": null,
+    "published_at": "2022-10-21T20:11:23+02:00",
+    "updated_at": "2022-10-21T20:17:36+02:00",
+    "media_id": "gp0xg8sauane",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6231451/rederij-pleitte-paar-dagen-voor-fataal-scheepsongeluk-voor-licht-op-vaarroute.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231448,
     "slug": "ajax-vrouwen-krijgt-boete-van-uefa-voor-te-kleine-doelen-bij-cl-duel-met-arsenal",
     "type": "article",
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6231363/teleurstelling-over-schrappen-onelove-actie-heel-raar-signaal-van-de-knvb.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231364,
-    "slug": "shorttracker-hoogerwerf-27-stopt-en-richt-zich-op-eigen-tattooshop",
-    "type": "article",
-    "title": "Shorttracker Hoogerwerf (27) stopt en richt zich op eigen tattooshop",
-    "subtitle": null,
-    "published_at": "2022-10-21T14:42:20+02:00",
-    "updated_at": "2022-10-21T14:43:25+02:00",
-    "media_id": "x35x8unardx0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6231364/shorttracker-hoogerwerf-27-stopt-en-richt-zich-op-eigen-tattooshop.html",
     "open_new_window": false,
     "partner": null
   }
