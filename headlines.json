@@ -1,12 +1,58 @@
 [
   {
+    "id": 6231643,
+    "slug": "verstappen-gaat-mateschitz-eren-met-overwinning-in-austin",
+    "type": "article",
+    "title": "'Verstappen gaat Mateschitz eren met overwinning in Austin'",
+    "subtitle": "Voorspelling F1",
+    "published_at": "2022-10-23T01:34:49+02:00",
+    "updated_at": "2022-10-23T01:34:50+02:00",
+    "media_id": "nrgxusvav7wg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6231643/verstappen-gaat-mateschitz-eren-met-overwinning-in-austin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231642,
+    "slug": "verstappen-hoopt-overleden-mateschitz-trots-te-maken-vanaf-tweede-startplek",
+    "type": "article",
+    "title": "Verstappen hoopt overleden Mateschitz 'trots te maken' vanaf tweede startplek",
+    "subtitle": null,
+    "published_at": "2022-10-23T01:25:52+02:00",
+    "updated_at": "2022-10-23T01:26:59+02:00",
+    "media_id": "2udxnnwahm5x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6231642/verstappen-hoopt-overleden-mateschitz-trots-te-maken-vanaf-tweede-startplek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231641,
     "slug": "verstappen-start-als-tweede-achter-sainz-in-texas-na-gridstraf-leclerc",
     "type": "article",
     "title": "Verstappen start als tweede achter Sainz in Texas na gridstraf Leclerc",
     "subtitle": null,
     "published_at": "2022-10-23T01:05:33+02:00",
-    "updated_at": "2022-10-23T01:18:14+02:00",
+    "updated_at": "2022-10-23T01:48:28+02:00",
     "media_id": "6msxsg6armaa",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Horner over Mateschitz: 'Gelukkig heeft hij Max nog kampioen zien worden'",
     "subtitle": null,
     "published_at": "2022-10-23T00:15:00+02:00",
-    "updated_at": "2022-10-23T00:42:22+02:00",
+    "updated_at": "2022-10-23T01:26:12+02:00",
     "media_id": "6s2xd4oaea4a",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Red Bull-oprichter Mateschitz op 78-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-10-22T23:24:43+02:00",
-    "updated_at": "2022-10-23T00:23:56+02:00",
+    "updated_at": "2022-10-23T01:26:24+02:00",
     "media_id": "37bxw3za20y8",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6231611/politie-stuurt-amber-alert-voor-vermiste-jayden-11-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231610,
-    "slug": "terugblik-gp-vs-2015-ferrari-duo-maakt-kennis-met-toro-rosso-rijder-verstappen",
-    "type": "article",
-    "title": "Terugblik GP VS 2015: Ferrari-duo maakt kennis met Toro Rosso-rijder Verstappen",
-    "subtitle": null,
-    "published_at": "2022-10-22T18:54:03+02:00",
-    "updated_at": "2022-10-22T19:12:09+02:00",
-    "media_id": "7jixdvvav2rp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6231610/terugblik-gp-vs-2015-ferrari-duo-maakt-kennis-met-toro-rosso-rijder-verstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231472,
-    "slug": "williams-bevestigt-amerikaan-sargeant-als-tweede-coureur-voor-2023",
-    "type": "article",
-    "title": "Williams bevestigt Amerikaan Sargeant als tweede coureur voor 2023",
-    "subtitle": null,
-    "published_at": "2022-10-22T18:38:48+02:00",
-    "updated_at": "2022-10-22T18:49:55+02:00",
-    "media_id": "pbbxexvatvhn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6231472/williams-bevestigt-amerikaan-sargeant-als-tweede-coureur-voor-2023.html",
     "open_new_window": false,
     "partner": null
   }
