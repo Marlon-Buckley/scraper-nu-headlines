@@ -1,5 +1,74 @@
 [
   {
+    "id": 6231963,
+    "slug": "akkoord-over-verlenging-cao-voor-spelers-in-betaald-voetbal-met-vier-jaar",
+    "type": "article",
+    "title": "Akkoord over verlenging cao voor spelers in betaald voetbal met vier jaar",
+    "subtitle": null,
+    "published_at": "2022-10-24T18:09:04+02:00",
+    "updated_at": "2022-10-24T18:11:14+02:00",
+    "media_id": "novxtnsajjyi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231963/akkoord-over-verlenging-cao-voor-spelers-in-betaald-voetbal-met-vier-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231957,
+    "slug": "partijgenoten-onthalen-nieuwe-britse-premier-sunak-met-applaus",
+    "type": "video",
+    "title": "Partijgenoten onthalen nieuwe Britse premier Sunak met applaus",
+    "subtitle": "Video",
+    "published_at": "2022-10-24T17:30:44+02:00",
+    "updated_at": "2022-10-24T17:31:46+02:00",
+    "media_id": "t36xpvlacli0",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6231957/partijgenoten-onthalen-nieuwe-britse-premier-sunak-met-applaus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231926,
+    "slug": "aantal-studies-overboord-zeespiegel-stijgt-deze-eeuw-maximaal-160-centimeter",
+    "type": "article",
+    "title": "Aantal studies overboord: zeespiegel stijgt deze eeuw maximaal 160 centimeter",
+    "subtitle": null,
+    "published_at": "2022-10-24T17:25:04+02:00",
+    "updated_at": "2022-10-24T18:27:13+02:00",
+    "media_id": "sgqxm3racxap",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6231926/aantal-studies-overboord-zeespiegel-stijgt-deze-eeuw-maximaal-160-centimeter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231949,
     "slug": "zeker-vijftig-doden-en-honderd-gewonden-bij-luchtaanval-op-concert-in-myanmar",
     "type": "article",
@@ -98,7 +167,7 @@
     "title": "Ook ABN AMRO verhoogt rente voor sparende klanten",
     "subtitle": null,
     "published_at": "2022-10-24T16:25:49+02:00",
-    "updated_at": "2022-10-24T16:26:47+02:00",
+    "updated_at": "2022-10-24T17:38:13+02:00",
     "media_id": "cr9xuasa02li",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Oud-schaatskampioene Achtereekte mag door bij wielerploeg Jumbo-Visma",
     "subtitle": null,
     "published_at": "2022-10-24T15:49:30+02:00",
-    "updated_at": "2022-10-24T16:17:44+02:00",
+    "updated_at": "2022-10-24T17:24:46+02:00",
     "media_id": "dhax9fmarghm",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Rishi Sunak volgt Liz Truss op als nieuwe Britse premier",
     "subtitle": null,
     "published_at": "2022-10-24T15:01:36+02:00",
-    "updated_at": "2022-10-24T17:00:09+02:00",
+    "updated_at": "2022-10-24T17:33:13+02:00",
     "media_id": "5igxlq4aevw7",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/muziek/6231881/beyonce-gaat-in-de-zomer-van-2023-weer-op-tournee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231877,
-    "slug": "klachten-over-nl-alert-berichten-bij-grote-brand-in-delft",
-    "type": "article",
-    "title": "Klachten over NL-Alert-berichten bij grote brand in Delft",
-    "subtitle": null,
-    "published_at": "2022-10-24T12:03:18+02:00",
-    "updated_at": "2022-10-24T13:14:38+02:00",
-    "media_id": "nmax4tuadiqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6231877/klachten-over-nl-alert-berichten-bij-grote-brand-in-delft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231867,
-    "slug": "ministerie-verwacht-dat-volgend-jaar-meer-vluchtelingen-asiel-aanvragen",
-    "type": "article",
-    "title": "Ministerie verwacht dat volgend jaar meer vluchtelingen asiel aanvragen",
-    "subtitle": null,
-    "published_at": "2022-10-24T11:52:55+02:00",
-    "updated_at": "2022-10-24T15:57:28+02:00",
-    "media_id": "ndnxlxgatt4w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231867/ministerie-verwacht-dat-volgend-jaar-meer-vluchtelingen-asiel-aanvragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231875,
-    "slug": "lewis-capaldi-over-kerstnummer-flappie-youp-je-bent-vreemd",
-    "type": "video",
-    "title": "Lewis Capaldi over kerstnummer Flappie: 'Youp, je bent vreemd'",
-    "subtitle": "Video",
-    "published_at": "2022-10-24T11:52:39+02:00",
-    "updated_at": "2022-10-24T12:38:19+02:00",
-    "media_id": "8iaxbcha8xz9",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6231875/lewis-capaldi-over-kerstnummer-flappie-youp-je-bent-vreemd.html",
     "open_new_window": false,
     "partner": null
   }
