@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232873,
+    "slug": "water-gutst-door-ingestorte-muur-in-overstroomde-venezolaanse-stad",
+    "type": "video",
+    "title": "Water gutst door ingestorte muur in overstroomde Venezolaanse stad",
+    "subtitle": "Video",
+    "published_at": "2022-10-29T10:37:00+02:00",
+    "updated_at": "2022-10-29T10:37:01+02:00",
+    "media_id": "4nex2dfad4a4",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232873/water-gutst-door-ingestorte-muur-in-overstroomde-venezolaanse-stad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232861,
     "slug": "weer-wk-schandaal-qatar-zet-duizenden-arbeiders-uit-huizen-voor-voetbalfans",
     "type": "article",
     "title": "Weer WK-schandaal: Qatar zet duizenden arbeiders uit huizen voor voetbalfans",
     "subtitle": null,
     "published_at": "2022-10-29T09:58:50+02:00",
-    "updated_at": "2022-10-29T10:07:06+02:00",
+    "updated_at": "2022-10-29T10:49:37+02:00",
     "media_id": "jkrxx6eafal0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Biden woest na aanval op man Pelosi: 'Genoeg is genoeg'",
     "subtitle": "Video",
     "published_at": "2022-10-29T08:54:16+02:00",
-    "updated_at": "2022-10-29T08:54:16+02:00",
+    "updated_at": "2022-10-29T11:04:25+02:00",
     "media_id": "r0ixmruabxuu",
     "duration": "1:25",
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Jonge Westenbroek verrast alle toppers op 500 meter: 'Dit zag ik niet aankomen'",
     "subtitle": null,
     "published_at": "2022-10-29T08:22:55+02:00",
-    "updated_at": "2022-10-29T08:22:57+02:00",
+    "updated_at": "2022-10-29T10:22:55+02:00",
     "media_id": "bwrxii5ankbk",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6232842,
-    "slug": "roest-en-bergsma-moeten-even-wennen-aan-nieuwe-kleuren-heel-andere-wereld",
+    "slug": "roest-en-bergsma-moeten-wennen-aan-nieuwe-kleuren-heel-andere-wereld",
     "type": "article",
-    "title": "Roest en Bergsma moeten even wennen aan nieuwe kleuren: 'Heel andere wereld'",
+    "title": "Roest en Bergsma moeten wennen aan nieuwe kleuren: 'Heel andere wereld'",
     "subtitle": null,
     "published_at": "2022-10-29T08:21:36+02:00",
-    "updated_at": "2022-10-29T08:21:37+02:00",
+    "updated_at": "2022-10-29T11:09:58+02:00",
     "media_id": "04uxq4tatlzs",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6232842/roest-en-bergsma-moeten-even-wennen-aan-nieuwe-kleuren-heel-andere-wereld.html",
+    "url": "/schaatsen/6232842/roest-en-bergsma-moeten-wennen-aan-nieuwe-kleuren-heel-andere-wereld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Goed nieuws: Overgebleven medicijnen bruikbaar | 'Mondriaan' hangt op de kop",
     "subtitle": null,
     "published_at": "2022-10-29T06:23:44+02:00",
-    "updated_at": "2022-10-29T07:06:57+02:00",
+    "updated_at": "2022-10-29T10:58:37+02:00",
     "media_id": "0acx8exaoch3",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/schaatsen/6232829/koppige-verbij-valt-na-paar-passen-uit-op-500-meter-westenbroek-verrast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232827,
-    "slug": "man-van-nancy-pelosi-aangevallen-met-hamer-dader-was-op-zoek-naar-haar",
-    "type": "article",
-    "title": "Man van Nancy Pelosi aangevallen met hamer, dader was op zoek naar haar",
-    "subtitle": null,
-    "published_at": "2022-10-28T20:13:50+02:00",
-    "updated_at": "2022-10-29T09:37:53+02:00",
-    "media_id": "7ecxen2a3x57",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6232827/man-van-nancy-pelosi-aangevallen-met-hamer-dader-was-op-zoek-naar-haar.html",
     "open_new_window": false,
     "partner": null
   }
