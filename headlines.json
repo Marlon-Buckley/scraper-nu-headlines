@@ -1,5 +1,74 @@
 [
   {
+    "id": 6232700,
+    "slug": "tientallen-mkbers-stoppen-ondanks-compensatieregeling-voor-energie",
+    "type": "article",
+    "title": "Tientallen mkb'ers stoppen ondanks compensatieregeling voor energie",
+    "subtitle": null,
+    "published_at": "2022-10-31T06:00:45+01:00",
+    "updated_at": "2022-10-31T06:00:46+01:00",
+    "media_id": "6t1xnphas0dx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6232700/tientallen-mkbers-stoppen-ondanks-compensatieregeling-voor-energie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232739,
+    "slug": "wat-je-moet-weten-over-de-tussentijdse-verkiezingen-in-de-vs",
+    "type": "video",
+    "title": "Wat je moet weten over de tussentijdse verkiezingen in de VS",
+    "subtitle": "Video",
+    "published_at": "2022-10-31T05:59:48+01:00",
+    "updated_at": "2022-10-31T05:59:49+01:00",
+    "media_id": "zxtxuvfasbxc",
+    "duration": "1:47",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6232739/wat-je-moet-weten-over-de-tussentijdse-verkiezingen-in-de-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231365,
+    "slug": "het-is-halloween-waarom-kijken-we-zo-geboeid-naar-angstaanjagende-films",
+    "type": "article",
+    "title": "Het is Halloween: waarom kijken we zo geboeid naar angstaanjagende films?",
+    "subtitle": null,
+    "published_at": "2022-10-31T05:58:45+01:00",
+    "updated_at": "2022-10-31T05:58:46+01:00",
+    "media_id": "a5ixkfbaigl6",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6231365/het-is-halloween-waarom-kijken-we-zo-geboeid-naar-angstaanjagende-films.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233127,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Weerbericht: Dag begint met bewolking, daarna af en toe regen",
     "subtitle": null,
     "published_at": "2022-10-31T05:27:48+01:00",
-    "updated_at": "2022-10-31T05:27:49+01:00",
+    "updated_at": "2022-10-31T06:20:11+01:00",
     "media_id": "jf3xlw5a7z0s",
     "duration": null,
     "canonical_section": {
@@ -277,12 +346,12 @@
   },
   {
     "id": 6233118,
-    "slug": "dodental-filipijnen-door-tropische-storm-nalgae-loopt-op-tot-98",
+    "slug": "dodental-filipijnen-door-tropische-storm-nalgae-stijgt-naar-98",
     "type": "article",
-    "title": "Dodental Filipijnen door tropische storm Nalgae loopt op tot 98",
+    "title": "Dodental Filipijnen door tropische storm Nalgae stijgt naar 98",
     "subtitle": null,
     "published_at": "2022-10-31T02:10:43+01:00",
-    "updated_at": "2022-10-31T02:10:44+01:00",
+    "updated_at": "2022-10-31T06:17:38+01:00",
     "media_id": "bznxrdlau3qe",
     "duration": null,
     "canonical_section": {
@@ -294,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6233118/dodental-filipijnen-door-tropische-storm-nalgae-loopt-op-tot-98.html",
+    "url": "/buitenland/6233118/dodental-filipijnen-door-tropische-storm-nalgae-stijgt-naar-98.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +466,7 @@
     "title": "Hamilton uitgefloten in Mexico: 'Dit voelt een beetje ongemakkelijk'",
     "subtitle": null,
     "published_at": "2022-10-30T23:40:43+01:00",
-    "updated_at": "2022-10-31T02:44:01+01:00",
+    "updated_at": "2022-10-31T06:07:51+01:00",
     "media_id": "rfhxeoza5cw6",
     "duration": null,
     "canonical_section": {
@@ -420,7 +489,7 @@
     "title": "Verstappen geniet van recordzege in Mexico: 'Het is een ongelooflijk jaar'",
     "subtitle": null,
     "published_at": "2022-10-30T23:35:31+01:00",
-    "updated_at": "2022-10-30T23:58:17+01:00",
+    "updated_at": "2022-10-31T06:12:01+01:00",
     "media_id": "q68x023a8mm9",
     "duration": null,
     "canonical_section": {
@@ -617,75 +686,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6233081/defensie-expert-ko-colijn-over-de-rol-van-israel-in-de-oekraine-oorlog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233100,
-    "slug": "lazio-kent-slechte-generale-voor-cruciaal-duel-met-feyenoord-milan-onderuit",
-    "type": "article",
-    "title": "Lazio kent slechte generale voor cruciaal duel met Feyenoord, Milan onderuit",
-    "subtitle": null,
-    "published_at": "2022-10-30T19:54:41+01:00",
-    "updated_at": "2022-10-30T22:49:38+01:00",
-    "media_id": "ln0xmv6a2y25",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233100/lazio-kent-slechte-generale-voor-cruciaal-duel-met-feyenoord-milan-onderuit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233099,
-    "slug": "joep-wennemars-is-hard-op-weg-om-niet-langer-de-zoon-van-te-zijn",
-    "type": "article",
-    "title": "Joep Wennemars is hard op weg om niet langer 'de zoon van' te zijn",
-    "subtitle": null,
-    "published_at": "2022-10-30T19:53:54+01:00",
-    "updated_at": "2022-10-31T04:28:04+01:00",
-    "media_id": "fhhx69kapfxu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6233099/joep-wennemars-is-hard-op-weg-om-niet-langer-de-zoon-van-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233098,
-    "slug": "toptalent-greaves-18-ten-koste-van-sherrock-als-tweede-vrouw-naar-wk-darts",
-    "type": "article",
-    "title": "Toptalent Greaves (18) ten koste van Sherrock als tweede vrouw naar WK darts",
-    "subtitle": null,
-    "published_at": "2022-10-30T19:35:23+01:00",
-    "updated_at": "2022-10-30T20:05:00+01:00",
-    "media_id": "qfcxg4ta2c7r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6233098/toptalent-greaves-18-ten-koste-van-sherrock-als-tweede-vrouw-naar-wk-darts.html",
     "open_new_window": false,
     "partner": null
   }
