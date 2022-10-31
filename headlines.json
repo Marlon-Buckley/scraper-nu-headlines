@@ -1,5 +1,143 @@
 [
   {
+    "id": 6233139,
+    "slug": "scorende-suarez-bekroont-terugkeer-bij-nacional-met-kampioenschap",
+    "type": "article",
+    "title": "Scorende Suárez bekroont terugkeer bij Nacional met kampioenschap",
+    "subtitle": null,
+    "published_at": "2022-10-31T08:08:47+01:00",
+    "updated_at": "2022-10-31T08:08:48+01:00",
+    "media_id": "2shx0edaw2mb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233139/scorende-suarez-bekroont-terugkeer-bij-nacional-met-kampioenschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233138,
+    "slug": "ten-hag-ziet-dat-manchester-united-zijn-speelstijl-steeds-beter-beheerst",
+    "type": "article",
+    "title": "Ten Hag ziet dat Manchester United zijn speelstijl steeds beter beheerst",
+    "subtitle": null,
+    "published_at": "2022-10-31T07:50:16+01:00",
+    "updated_at": "2022-10-31T08:01:24+01:00",
+    "media_id": "wmixkbmazzqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233138/ten-hag-ziet-dat-manchester-united-zijn-speelstijl-steeds-beter-beheerst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233137,
+    "slug": "duizenden-brazilianen-vieren-dat-lula-nieuwe-president-wordt",
+    "type": "video",
+    "title": "Duizenden Brazilianen vieren dat Lula nieuwe president wordt",
+    "subtitle": "Video",
+    "published_at": "2022-10-31T07:48:27+01:00",
+    "updated_at": "2022-10-31T08:05:43+01:00",
+    "media_id": "eicxx16aeu1x",
+    "duration": "1:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233137/duizenden-brazilianen-vieren-dat-lula-nieuwe-president-wordt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233136,
+    "slug": "simon-cowell-dronk-alcohol-en-rookte-op-achtjarige-leeftijd",
+    "type": "article",
+    "title": "Simon Cowell dronk alcohol en rookte op achtjarige leeftijd",
+    "subtitle": null,
+    "published_at": "2022-10-31T07:32:07+01:00",
+    "updated_at": "2022-10-31T07:54:37+01:00",
+    "media_id": "xykxenzaiif8",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6233136/simon-cowell-dronk-alcohol-en-rookte-op-achtjarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233135,
+    "slug": "turnster-visser-zorgt-voor-zeldzaamheid-met-wk-finale-op-drie-onderdelen",
+    "type": "article",
+    "title": "Turnster Visser zorgt voor zeldzaamheid met WK-finale op drie onderdelen",
+    "subtitle": null,
+    "published_at": "2022-10-31T07:30:45+01:00",
+    "updated_at": "2022-10-31T07:45:33+01:00",
+    "media_id": "tl8xlj6aw0zs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6233135/turnster-visser-zorgt-voor-zeldzaamheid-met-wk-finale-op-drie-onderdelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233134,
+    "slug": "kim-kardashian-verkleed-als-mystique-uit-marvel-comics",
+    "type": "article",
+    "title": "Kim Kardashian verkleed als Mystique uit Marvel Comics",
+    "subtitle": "Achterklap-updates",
+    "published_at": "2022-10-31T07:27:42+01:00",
+    "updated_at": "2022-10-31T07:27:43+01:00",
+    "media_id": "xqrxy3oa5fli",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6233134/kim-kardashian-verkleed-als-mystique-uit-marvel-comics.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233133,
     "slug": "wat-wil-jij-weten-over-de-grand-prix-van-mexico",
     "type": "article",
@@ -47,12 +185,12 @@
   },
   {
     "id": 6233130,
-    "slug": "prijzen-stijgen-deze-maand-iets-minder-hard-dan-in-september-inflatie-komt-uit-op-168-procent",
+    "slug": "prijzen-stegen-in-oktober-iets-minder-hard",
     "type": "article",
-    "title": "Prijzen stijgen deze maand iets minder hard dan in september: inflatie komt uit op 16,8 procent",
+    "title": "Prijzen stegen in oktober iets minder hard",
     "subtitle": null,
     "published_at": "2022-10-31T07:03:05+01:00",
-    "updated_at": "2022-10-31T07:03:05+01:00",
+    "updated_at": "2022-10-31T08:04:35+01:00",
     "media_id": "lbbxehqaq69t",
     "duration": null,
     "canonical_section": {
@@ -64,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6233130/prijzen-stijgen-deze-maand-iets-minder-hard-dan-in-september-inflatie-komt-uit-op-168-procent.html",
+    "url": "/economie/6233130/prijzen-stegen-in-oktober-iets-minder-hard.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +236,7 @@
     "title": "Gaia Aikman en Naidjim Severina spelen hoofdrollen in nieuwe versie Aida",
     "subtitle": null,
     "published_at": "2022-10-31T06:53:28+01:00",
-    "updated_at": "2022-10-31T06:53:28+01:00",
+    "updated_at": "2022-10-31T07:58:43+01:00",
     "media_id": "6lvxdboaufut",
     "duration": null,
     "canonical_section": {
@@ -144,7 +282,7 @@
     "title": "Tientallen mkb'ers stoppen ondanks compensatieregeling voor energie",
     "subtitle": null,
     "published_at": "2022-10-31T06:00:45+01:00",
-    "updated_at": "2022-10-31T06:00:46+01:00",
+    "updated_at": "2022-10-31T07:43:18+01:00",
     "media_id": "6t1xnphas0dx",
     "duration": null,
     "canonical_section": {
@@ -190,7 +328,7 @@
     "title": "Het is Halloween: waarom kijken we zo geboeid naar angstaanjagende films?",
     "subtitle": null,
     "published_at": "2022-10-31T05:58:45+01:00",
-    "updated_at": "2022-10-31T05:58:46+01:00",
+    "updated_at": "2022-10-31T08:11:44+01:00",
     "media_id": "a5ixkfbaigl6",
     "duration": null,
     "canonical_section": {
@@ -254,12 +392,12 @@
   },
   {
     "id": 6233126,
-    "slug": "weerbericht-dag-begint-met-bewolking-daarna-af-en-toe-regen",
+    "slug": "weerbericht-knmi-waarschuwt-voor-plaatselijk-dichte-mist",
     "type": "article",
-    "title": "Weerbericht: Dag begint met bewolking, daarna af en toe regen",
+    "title": "Weerbericht: KNMI waarschuwt voor plaatselijk dichte mist",
     "subtitle": null,
     "published_at": "2022-10-31T05:27:48+01:00",
-    "updated_at": "2022-10-31T06:20:11+01:00",
+    "updated_at": "2022-10-31T07:28:33+01:00",
     "media_id": "jf3xlw5a7z0s",
     "duration": null,
     "canonical_section": {
@@ -271,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6233126/weerbericht-dag-begint-met-bewolking-daarna-af-en-toe-regen.html",
+    "url": "/binnenland/6233126/weerbericht-knmi-waarschuwt-voor-plaatselijk-dichte-mist.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +443,7 @@
     "title": "Jaren wachten op kinderopvangplek is niet alleen een Randstedelijk probleem",
     "subtitle": null,
     "published_at": "2022-10-31T05:01:00+01:00",
-    "updated_at": "2022-10-31T05:01:01+01:00",
+    "updated_at": "2022-10-31T07:51:41+01:00",
     "media_id": "25extcoamu3r",
     "duration": null,
     "canonical_section": {
@@ -351,7 +489,7 @@
     "title": "Schadevergoeding van 36 miljoen voor onterechte veroordeling moord Malcolm X",
     "subtitle": null,
     "published_at": "2022-10-31T04:11:40+01:00",
-    "updated_at": "2022-10-31T04:11:41+01:00",
+    "updated_at": "2022-10-31T07:50:09+01:00",
     "media_id": "2l7x0x7agwrq",
     "duration": null,
     "canonical_section": {
@@ -392,12 +530,12 @@
   },
   {
     "id": 6233122,
-    "slug": "overeenkomst-over-verplaatsen-16-schepen-nadat-rusland-graandeal-stopte",
+    "slug": "akkoord-om-zestien-schepen-te-laten-uitvaren-nu-rusland-uit-graandeal-is-gestapt",
     "type": "article",
-    "title": "Overeenkomst over verplaatsen 16 schepen nadat Rusland graandeal stopte",
+    "title": "Akkoord om zestien schepen te laten uitvaren nu Rusland uit graandeal is gestapt",
     "subtitle": null,
     "published_at": "2022-10-31T02:57:36+01:00",
-    "updated_at": "2022-10-31T07:19:47+01:00",
+    "updated_at": "2022-10-31T08:11:54+01:00",
     "media_id": "5rzx62faku3o",
     "duration": null,
     "canonical_section": {
@@ -409,7 +547,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6233122/overeenkomst-over-verplaatsen-16-schepen-nadat-rusland-graandeal-stopte.html",
+    "url": "/buitenland/6233122/akkoord-om-zestien-schepen-te-laten-uitvaren-nu-rusland-uit-graandeal-is-gestapt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -466,7 +604,7 @@
     "title": "Verstappen en Red Bull boycotten Engelse zender Sky: 'Moet een keer stoppen'",
     "subtitle": null,
     "published_at": "2022-10-31T02:12:35+01:00",
-    "updated_at": "2022-10-31T07:14:54+01:00",
+    "updated_at": "2022-10-31T07:40:58+01:00",
     "media_id": "cpkx7m3a7ou3",
     "duration": null,
     "canonical_section": {
@@ -512,7 +650,7 @@
     "title": "Meeste stemmen geteld: Lula wordt nieuwe president van Brazilië",
     "subtitle": null,
     "published_at": "2022-10-31T00:16:15+01:00",
-    "updated_at": "2022-10-31T06:42:12+01:00",
+    "updated_at": "2022-10-31T07:56:05+01:00",
     "media_id": "l3nx6k4aq6f4",
     "duration": null,
     "canonical_section": {
@@ -548,144 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6232750/afgelopen-maanden-vroegen-weer-meer-mensen-asiel-aan-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232853,
-    "slug": "wie-ooit-bij-veilig-thuis-aanklopte-doet-vaak-opnieuw-een-melding",
-    "type": "article",
-    "title": "Wie ooit bij Veilig Thuis aanklopte doet vaak opnieuw een melding",
-    "subtitle": null,
-    "published_at": "2022-10-31T00:01:03+01:00",
-    "updated_at": "2022-10-31T00:01:04+01:00",
-    "media_id": "c0txgpea7ssp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6232853/wie-ooit-bij-veilig-thuis-aanklopte-doet-vaak-opnieuw-een-melding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233116,
-    "slug": "leclerc-baalt-van-slechte-dag-ferrari-dit-was-nog-het-maximale-ook",
-    "type": "article",
-    "title": "Leclerc baalt van slechte dag Ferrari: 'Dit was nog het maximale ook'",
-    "subtitle": null,
-    "published_at": "2022-10-30T23:40:56+01:00",
-    "updated_at": "2022-10-31T06:49:34+01:00",
-    "media_id": "t25xtf5ar8zr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6233116/leclerc-baalt-van-slechte-dag-ferrari-dit-was-nog-het-maximale-ook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233115,
-    "slug": "hamilton-uitgefloten-in-mexico-dit-voelt-een-beetje-ongemakkelijk",
-    "type": "article",
-    "title": "Hamilton uitgefloten in Mexico: 'Dit voelt een beetje ongemakkelijk'",
-    "subtitle": null,
-    "published_at": "2022-10-30T23:40:43+01:00",
-    "updated_at": "2022-10-31T06:07:51+01:00",
-    "media_id": "rfhxeoza5cw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6233115/hamilton-uitgefloten-in-mexico-dit-voelt-een-beetje-ongemakkelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233114,
-    "slug": "verstappen-geniet-van-recordzege-in-mexico-het-is-een-ongelooflijk-jaar",
-    "type": "article",
-    "title": "Verstappen geniet van recordzege in Mexico: 'Het is een ongelooflijk jaar'",
-    "subtitle": null,
-    "published_at": "2022-10-30T23:35:31+01:00",
-    "updated_at": "2022-10-31T06:12:01+01:00",
-    "media_id": "q68x023a8mm9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6233114/verstappen-geniet-van-recordzege-in-mexico-het-is-een-ongelooflijk-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233112,
-    "slug": "van-bommel-lijdt-opnieuw-competitienederlaag-met-royal-antwerp",
-    "type": "article",
-    "title": "Van Bommel lijdt opnieuw competitienederlaag met Royal Antwerp",
-    "subtitle": null,
-    "published_at": "2022-10-30T22:56:37+01:00",
-    "updated_at": "2022-10-30T23:39:12+01:00",
-    "media_id": "1msx11yar2ol",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6233112/van-bommel-lijdt-opnieuw-competitienederlaag-met-royal-antwerp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233106,
-    "slug": "verstappen-wint-onbedreigd-in-mexico-en-verbetert-recordaantal-zeges-in-een-jaar",
-    "type": "article",
-    "title": "Verstappen wint onbedreigd in Mexico en verbetert recordaantal zeges in één jaar",
-    "subtitle": null,
-    "published_at": "2022-10-30T22:42:26+01:00",
-    "updated_at": "2022-10-31T02:43:35+01:00",
-    "media_id": "oe5x1n2ajhqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6233106/verstappen-wint-onbedreigd-in-mexico-en-verbetert-recordaantal-zeges-in-een-jaar.html",
     "open_new_window": false,
     "partner": null
   }
