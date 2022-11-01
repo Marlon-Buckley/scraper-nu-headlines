@@ -1,12 +1,58 @@
 [
   {
-    "id": 6233491,
-    "slug": "is-vrouwen-worden-in-nederland-opgepakt-kinderen-gaan-naar-instelling",
+    "id": 6233484,
+    "slug": "waarom-nederland-opnieuw-onbekende-artiesten-naar-songfestival-stuurt",
+    "type": "video",
+    "title": "Waarom Nederland opnieuw onbekende artiesten naar Songfestival stuurt",
+    "subtitle": "Video",
+    "published_at": "2022-11-01T20:08:29+01:00",
+    "updated_at": "2022-11-01T20:10:24+01:00",
+    "media_id": "2e6x3x3aeyeq",
+    "duration": "2:42",
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6233484/waarom-nederland-opnieuw-onbekende-artiesten-naar-songfestival-stuurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233481,
+    "slug": "ajax-begint-met-wijndal-op-plek-van-blind-aan-beslissend-duel-bij-rangers",
     "type": "article",
-    "title": "IS-vrouwen worden in Nederland opgepakt, kinderen gaan naar instelling",
+    "title": "Ajax begint met Wijndal op plek van Blind aan beslissend duel bij Rangers",
+    "subtitle": null,
+    "published_at": "2022-11-01T19:40:15+01:00",
+    "updated_at": "2022-11-01T20:00:02+01:00",
+    "media_id": "n65xw95abs99",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233481/ajax-begint-met-wijndal-op-plek-van-blind-aan-beslissend-duel-bij-rangers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233491,
+    "slug": "is-vrouwen-worden-in-nederland-direct-opgepakt-kinderen-gaan-naar-instelling",
+    "type": "article",
+    "title": "IS-vrouwen worden in Nederland direct opgepakt, kinderen gaan naar instelling",
     "subtitle": null,
     "published_at": "2022-11-01T19:15:32+01:00",
-    "updated_at": "2022-11-01T19:15:32+01:00",
+    "updated_at": "2022-11-01T19:53:25+01:00",
     "media_id": "15ix7kiaf1og",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6233491/is-vrouwen-worden-in-nederland-opgepakt-kinderen-gaan-naar-instelling.html",
+    "url": "/binnenland/6233491/is-vrouwen-worden-in-nederland-direct-opgepakt-kinderen-gaan-naar-instelling.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6233486,
-    "slug": "kabinet-verwacht-32-miljard-euro-op-te-halen-met-solidariteitsbijdrage",
+    "slug": "extra-belasting-voor-fossiele-bedrijven-moet-32-miljard-euro-opleveren",
     "type": "article",
-    "title": "Kabinet verwacht 3,2 miljard euro op te halen met solidariteitsbijdrage",
+    "title": "Extra belasting voor fossiele bedrijven moet 3,2 miljard euro opleveren",
     "subtitle": null,
     "published_at": "2022-11-01T19:07:23+01:00",
-    "updated_at": "2022-11-01T19:07:23+01:00",
+    "updated_at": "2022-11-01T19:54:09+01:00",
     "media_id": "m0uxxyfasr81",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6233486/kabinet-verwacht-32-miljard-euro-op-te-halen-met-solidariteitsbijdrage.html",
+    "url": "/economie/6233486/extra-belasting-voor-fossiele-bedrijven-moet-32-miljard-euro-opleveren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Gefrustreerde Van de Zandschulp buigt voor Dimitrov na twee tiebreaks in Parijs",
     "subtitle": null,
     "published_at": "2022-11-01T19:02:33+01:00",
-    "updated_at": "2022-11-01T19:11:47+01:00",
+    "updated_at": "2022-11-01T19:30:05+01:00",
     "media_id": "v59xznya8q3c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Atlético lijkt naast EL te grijpen, 0-0 bij Leverkusen-Brugge",
     "subtitle": "Liveblog CL",
     "published_at": "2022-11-01T18:19:03+01:00",
-    "updated_at": "2022-11-01T19:14:32+01:00",
+    "updated_at": "2022-11-01T19:20:30+01:00",
     "media_id": "azhx102awrvh",
     "duration": null,
     "canonical_section": {
@@ -640,52 +686,6 @@
       "partner": null
     },
     "url": "/binnenland/6233389/toeslagenschandaal-zorgde-niet-voor-grotere-kans-op-ingreep-jeugdbescherming.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233430,
-    "slug": "bezoekers-disneyland-shanghai-verlaten-park-na-plotse-lockdown",
-    "type": "video",
-    "title": "Bezoekers Disneyland Shanghai verlaten park na plotse lockdown",
-    "subtitle": "Video",
-    "published_at": "2022-11-01T14:18:24+01:00",
-    "updated_at": "2022-11-01T14:28:36+01:00",
-    "media_id": "97nxkpba8hm5",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233430/bezoekers-disneyland-shanghai-verlaten-park-na-plotse-lockdown.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233414,
-    "slug": "rusland-trekt-zich-terug-uit-de-graandeal-wat-betekent-dat",
-    "type": "article",
-    "title": "Rusland trekt zich terug uit de graandeal: wat betekent dat?",
-    "subtitle": null,
-    "published_at": "2022-11-01T14:15:23+01:00",
-    "updated_at": "2022-11-01T14:28:19+01:00",
-    "media_id": "2cjxckcaqnlm",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233414/rusland-trekt-zich-terug-uit-de-graandeal-wat-betekent-dat.html",
     "open_new_window": false,
     "partner": null
   }
