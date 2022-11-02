@@ -1,12 +1,35 @@
 [
   {
+    "id": 6233548,
+    "slug": "van-bronckhorst-berust-in-slechtste-cl-campagne-ooit-we-komen-tekort",
+    "type": "article",
+    "title": "Van Bronckhorst berust in slechtste CL-campagne ooit: 'We komen tekort'",
+    "subtitle": null,
+    "published_at": "2022-11-02T07:01:16+01:00",
+    "updated_at": "2022-11-02T07:13:03+01:00",
+    "media_id": "h6oxt8ra6jp9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233548/van-bronckhorst-berust-in-slechtste-cl-campagne-ooit-we-komen-tekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233545,
     "slug": "bekijk-hier-de-samenvatting-van-rangers-fc-ajax-1-3",
     "type": "video",
     "title": "Bekijk hier de samenvatting van Rangers FC-Ajax (1-3)",
     "subtitle": "Video",
     "published_at": "2022-11-02T06:44:19+01:00",
-    "updated_at": "2022-11-02T06:44:20+01:00",
+    "updated_at": "2022-11-02T06:54:20+01:00",
     "media_id": "y8oxcyqamzjk",
     "duration": "4:11",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Songfestival-winnaar Maneskin kondigt nieuw album aan",
     "subtitle": null,
     "published_at": "2022-11-02T06:22:41+01:00",
-    "updated_at": "2022-11-02T06:22:42+01:00",
+    "updated_at": "2022-11-02T06:49:38+01:00",
     "media_id": "kygxl2lab9wd",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Moeder Carlo Heuvelman: 'Hij was een vrolijke, gezellige en energieke jongen'",
     "subtitle": null,
     "published_at": "2022-11-02T05:03:19+01:00",
-    "updated_at": "2022-11-02T05:03:20+01:00",
+    "updated_at": "2022-11-02T07:06:10+01:00",
     "media_id": "zxmxssxao3f7",
     "duration": null,
     "canonical_section": {
@@ -663,29 +686,6 @@
       "partner": null
     },
     "url": "/voetbal/6233481/ajax-begint-met-wijndal-op-plek-van-blind-aan-beslissend-duel-bij-rangers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233491,
-    "slug": "is-vrouwen-worden-in-nederland-direct-opgepakt-kinderen-gaan-naar-instelling",
-    "type": "article",
-    "title": "IS-vrouwen worden in Nederland direct opgepakt, kinderen gaan naar instelling",
-    "subtitle": null,
-    "published_at": "2022-11-01T19:15:32+01:00",
-    "updated_at": "2022-11-01T19:53:25+01:00",
-    "media_id": "15ix7kiaf1og",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233491/is-vrouwen-worden-in-nederland-direct-opgepakt-kinderen-gaan-naar-instelling.html",
     "open_new_window": false,
     "partner": null
   }
